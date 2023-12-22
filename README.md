@@ -1,1 +1,1 @@
-# challenge-2
+With this project I set out to create a portfolio page for any and all future tech interviews. My goal for this project was something easy on the eyes and to the point, with an easy to get UI and descriptive headings I believe this will show the directness i can bring to a team and in the future the flexabilty thatll come with practice.
